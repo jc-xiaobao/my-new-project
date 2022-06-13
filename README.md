@@ -1,1 +1,3 @@
-# my-new-project
+# GitProject
+Bai tap thuc hanh
+[![NGUYEN THI THIEN AN][Vietnamese]]
